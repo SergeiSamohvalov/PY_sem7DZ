@@ -1,0 +1,6 @@
+Id;First name;Last name;Phone;Comment
+1;Mila;Fialka;89154184851;work
+2;Peter;Goldshtein;89153124511;personal
+3;Nikolay;Gogol;89152226511;new number
+4;Alexander;Pushkin;89265117788;new number
+5;Mikhail;Lermontov;87121163900;spam
